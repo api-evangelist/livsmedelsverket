@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Livsmedelsverket (Swedish Food Agency) is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://www.livsmedelsverket.se/
+Livsmedelsverket, the Swedish Food Agency, is a government authority responsible for food safety, nutrition, and consumer information in Sweden. It develops regulations, conducts research, and provides guidance to ensure safe and healthy food for the public, covering areas such as food labeling, contaminants, and dietary advice.
+
+**Areas:** Company · Government · Food Safety · Nutrition · Sweden
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.livsmedelsverket.se/)
+- [Documentation](https://dev.livsmedelsverket.se/)
+- [GitHub](https://github.com/Livsmedelsverket)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/livsmedelsverket/](https://apis.io/providers/livsmedelsverket/).
